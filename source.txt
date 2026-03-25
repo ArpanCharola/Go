@@ -1,0 +1,6 @@
+0. Loops and conditionals
+1. Structs and methods
+2. Maps
+3. Slices
+4. User input handling
+5. Error handling patterns
